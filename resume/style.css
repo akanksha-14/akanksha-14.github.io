@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.topcontainer {
+    
+    position: relative;
+    padding: 100px;
+    height: 50%;
+    background-image: url(black-background-mak-creates-web-design-services-1500-2500.jpg);
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Crimson Text', serif;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+h2 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.25rem;
+    color: black;
+
+}
+
+
+.bottom-container {
+    padding: 10px;
+    margin: 0px auto 5px auto;
+    background-color: #66BFBF;
+}
+
+.skill-row1 {
+    display: table-cell;
+    width: 50%;
+    margin-right: 15px;
+    line-height: 2;
+    text-align: left;
+    border-right: 3px solid black;
+    padding: 10px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    width: 4%;
+    border-bottom:none;
+    margin:100px auto 100px auto;
+    
+}
+
+.skill-row {
+    display: table-cell;
+    width: 50%;
+    margin-left: 500px;
+    line-height: 2;
+    text-align: left;
+    padding: 10px;
+
+}
+
+.footer-link {
+    color: #11999E;
+    margin: 10px auto 10px auto;
+}
+
+p {
+    width: 100%;
+    margin: 6px auto 6px auto;
+
+}
+
+h3 {
+    font-family: 'montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.btn {
+    background-color: #11999E;
+    border: 2px solid #11999E;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background: #66BFBF;
+    border: solid #0059A0 0px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.getintouch {
+    padding: 5px;
+    line-height: 1;
+    margin: 10px auto 10px auto;
+}
