@@ -13,7 +13,8 @@ body {
     
     position: relative;
     padding: 100px;
-    height: 50%;
+    height: auto;
+    width: 100%;
     background-image: url(black-background-mak-creates-web-design-services-1500-2500.jpg);
 }
 
