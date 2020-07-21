@@ -1,8 +1,6 @@
 body {
     margin: 1;
     text-align: center;
-    align-content: center;
-    align-items: center;
     font-family: 'Merriweather', serif;
 }
 
@@ -36,6 +34,8 @@ h2 {
     padding: 10px;
     margin: 0px auto 5px auto;
     background-color: #66BFBF;
+    width: 100%;
+    text-align:center;
 }
 
 .skill-row1 {
