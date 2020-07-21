@@ -1,11 +1,5 @@
-@-ms-viewport{
-    width: device-width;
-    zoom : 1.0;
-}
-
 body {
-    margin: auto;
-    max-width: 500px;
+    margin: 1;
     text-align: center;
     font-family: 'Merriweather', serif;
 }
